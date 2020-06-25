@@ -85,13 +85,3 @@ You can also create your custom Toasts with the `custom()` method:
 Toasty.custom(yourContext, "I'm a custom Toast", yourIconDrawable, tintColor, duration, withIcon, 
 shouldTint).show();
 ```
-### Extra
-[You can pass formatted text to Toasty!](https://github.com/GrenderG/Toasty/blob/master/app/src/main/java/es/dmoral/toastysample/MainActivity.java#L98-L107)
-
-**There are variants of each method, feel free to explore this library.**
-
-## Screenshots
-
-**Please click the image below to enlarge.**
-
-<img src="https://raw.githubusercontent.com/GrenderG/Toasty/master/art/collage.png">
