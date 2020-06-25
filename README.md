@@ -1,11 +1,4 @@
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R21LO82)
-
 # Toasty
-[![API](https://img.shields.io/badge/API-14%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=14) [![](https://jitpack.io/v/GrenderG/Toasty.svg)](https://jitpack.io/#GrenderG/Toasty) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Toasty-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5102)
-
-<div align="center">
-	<img src="https://raw.githubusercontent.com/GrenderG/Toasty/master/art/web_hi_res_512.png" width="128">
-</div>
 
 The usual Toast, but with steroids.
 
@@ -29,7 +22,7 @@ Add this to your module's `build.gradle` file (make sure the version matches the
 ```gradle
 dependencies {
 	...
-	implementation 'com.github.GrenderG:Toasty:1.4.2'
+	 implementation 'com.github.immujahidkhan:ToastyAndroidX:0.0.1'
 }
 ```
 
@@ -102,80 +95,3 @@ shouldTint).show();
 **Please click the image below to enlarge.**
 
 <img src="https://raw.githubusercontent.com/GrenderG/Toasty/master/art/collage.png">
-
-## Third Party Bindings
-
-### React Native
-You may now use this library with [React Native](https://github.com/facebook/react-native) via this [module](https://github.com/prscX/react-native-toasty).
-
-Apps using Toasty
---
-
-Want to be here? Open an `issue` or make a `pull request`.
-
-<table>
-	<tr>
-        <td><a href="https://play.google.com/store/apps/details?id=cheetatech.com.colorhub"><img src="https://archive.org/download/ic_launcher_colorhub/ic_launcher_colorhub.png" width="64"/></a></td>
-		<td><a href="https://play.google.com/store/apps/details?id=cheetatech.com.colorhub">ColorHub - Color Palette</a></td>
-	</tr>
-	<tr>
-        <td><a href="https://play.google.com/store/apps/details?id=com.fa.daily.free"><img src="https://lh3.googleusercontent.com/rXB22UBHujsK2uYpN-kAkVFBjTcnAp6ltSZYf9-LdYvRkM-kF-xtwPwR8kEInhludA=w64"/></a></td>
-		<td><a href="https://play.google.com/store/apps/details?id=com.fa.daily.free">Daily – News flipped around</a></td>
-	</tr>
-	<tr>
-        <td><a href="https://play.google.com/store/apps/details?id=es.jmoral.ozreader"><img src="https://lh3.googleusercontent.com/ISQPSPA__uWU4Csw4N0quI0IPi_WcWN0pY4PK86yljf39vaCObvohT9ak2ubQ7iLDQ=w64"/></a></td>
-		<td><a href="https://play.google.com/store/apps/details?id=es.jmoral.ozreader">Oz! Comic Reader</a></td>
-	</tr>
-	<tr>
-        <td><a href="https://play.google.com/store/apps/details?id=com.andreacioccarelli.impactor"><img src="https://lh3.googleusercontent.com/KxzCiu-csleONAW9kfAYBCaCe4iAnhyO1ziuKjKK_yEDE0xPQMfy_-sYVYkj4RBE-Srt=w64"/></a></td>
-		<td><a href="https://play.google.com/store/apps/details?id=com.andreacioccarelli.impactor">Impactor Unroot</a></td>
-	</tr>
-	<tr>
-        <td><a href="https://play.google.com/store/apps/details?id=com.andreacioccarelli.fusemounter"><img src="https://lh3.googleusercontent.com/7e0iTo60TJXz6U-zQl6pXcfgRCLifQaTp_DczwNA5ZSnrEssBwH6K0MU88gC9BzQlMY=w64"/></a></td>
-		<td><a href="https://play.google.com/store/apps/details?id=com.andreacioccarelli.fusemounter">Fusemounter</a></td>
-	</tr>
-	<tr>
-        <td><a href="https://play.google.com/store/apps/details?id=com.thesrb.bluewords&referrer=utm_source%3Dgithub%26utm_medium%3Dtoasty%26utm_content%3Dlogo%26utm_campaign%3Dreadme"><img src="https://lh3.googleusercontent.com/gdGrQHkHsfRAY9ivf8wt9vgaX9KPxpFHdFq5AXY_zw2P8Wat3KNstvf-BkNaKrNX8Qg=w64"/></a></td>
-		<td><a href="https://play.google.com/store/apps/details?id=com.thesrb.bluewords&referrer=utm_source%3Dgithub%26utm_medium%3Dtoasty%26utm_content%3Dname%26utm_campaign%3Dreadme">BlueWords</a></td>
-	</tr>
-	<tr>
-        <td><a href="https://play.google.com/store/apps/details?id=com.levionsoftware.instagram_map"><img src="https://lh3.googleusercontent.com/QL0QDLXBm9j2Y2An4MOZtlbI02yx_zuI7I3vMBM_mBO_BbimNKjBQeldQBBKo0P60Og=w64"/></a></td>
-		<td><a href="https://play.google.com/store/apps/details?id=com.levionsoftware.instagram_map">Photo Map - Photo and Video Gallery</a></td>
-	</tr>
-	<tr>
-        <td><a href="https://play.google.com/store/apps/details?id=com.sunshine.makilite"><img src="https://lh3.googleusercontent.com/RL082J8D9AyVJdyoT8sN8Mb47LUJEn3ssvp8jgrke_K_sWAXgEl9F8tjudqDoL7y5A0=w64"/></a></td>
-		<td><a href="https://play.google.com/store/apps/details?id=com.sunshine.makilite">Maki for Facebook & Twitter</a></td>
-	</tr>
-		<tr>
-            <td><a href="https://play.google.com/store/apps/details?id=com.KillerBLS.modpeide"><img src="https://lh3.googleusercontent.com/nyB12hF6cPHBrm532qQQslvj-X-klmPlKuQ4Z0MYKDpt4sPVZmWYRZ_SShEfVcTmhg=w64"/></a></td>
-		<td><a href="https://play.google.com/store/apps/details?id=com.KillerBLS.modpeide">ModPE IDE</a></td>
-	</tr>
-		<tr>
-            <td><a href="https://play.google.com/store/apps/details?id=stream.rocketnotes"><img src="https://lh3.googleusercontent.com/tYGJBG8mc7lwC0ZxQUxif2FVMFI8L8xRkPON0ytkWVPTI67ggkrgDl3JpRu9jW0W3sLJ=w64"/></a></td>
-		<td><a href="https://play.google.com/store/apps/details?id=stream.rocketnotes">Rocket Notes</a></td>
-	</tr>
-	<tr>
-            <td><a href="https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub"><img src="https://lh3.googleusercontent.com/XP-tvaGf-as9XMQ3kcUjohSZlSD7uyf_AcHsjq6jTI0chXWK1yQrnJJs2Y_Pvbe1FRQ=w64"/></a></td>
-		<td><a href="https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub">OpenHub for GitHub</a></td>
-	</tr>
-	<tr>
-            <td><a href="https://play.google.com/store/apps/details?id=org.openhab.habdroid"><img src="https://lh3.googleusercontent.com/RhinsfPN8qFHQDyPKssmiPl4P_-JJpw7GaQO4K7TVixMjrkZsPh0NPXlL2nJRrR4PAbw=w64"/></a></td>
-		<td><a href="https://play.google.com/store/apps/details?id=org.openhab.habdroid">openHAB</a></td>
-	</tr>
-	<tr>
-                <td><a href="https://play.google.com/store/apps/details?id=org.saarang.app"><img src="https://lh3.googleusercontent.com/m683OsEgBAU15kdHOSsl-lckDPEa0bdsK2xvhq3Qs4vww-ueJnW8xY0xXfwfMV6dOyE=w64"/></a></td>
-    		<td><a href="https://play.google.com/store/apps/details?id=org.saarang.app">Saarang</a></td>
-    	</tr>
-    <tr>
-                <td><a href="https://play.google.com/store/apps/details?id=com.dizdarevic.kadcemibus"><img src="https://lh3.googleusercontent.com/LFUKgzu8S1V8TSLg3aiFoA7dkfUYmQg6s8lVUSPJYEkv6564UKjaUKhYcqvFMyDbSas=w64"/></a></td>
-            <td><a href="https://play.google.com/store/apps/details?id=com.dizdarevic.kadcemibus">Kad ce mi bus - red voznje</a></td>
-    </tr>
-    <tr>
-            <td><a href="https://play.google.com/store/apps/details?id=com.katyayini.hidefiles"><img src="https://lh3.googleusercontent.com/hq2dLHXjKoTonzE45uJKzkGfCUSSh0_IJZBnuRIyb8G_EbcpYT5_gPv942yrIKlyo12r=s64-rw"/></a></td>
-        	<td><a href="https://play.google.com/store/apps/details?id=com.katyayini.hidefiles">Hide Files</a></td>
-        </tr>
-    	<tr>
-            <td><a href="https://github.com/nikothegreek/logviewer-for-openhab-app"><img src="https://i.imgur.com/a6RbPkJ.png"/></a></td>
-        	<td><a href="https://github.com/nikothegreek/logviewer-for-openhab-app">LogViewer for openHAB</a></td>
-        </tr>
-</table>
